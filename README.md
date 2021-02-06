@@ -1,5 +1,9 @@
 # Classical Aerodynamics with Python
 
+* Open index.ipynb: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-oilgains/AeroPython/main?filepath=index.ipynb)
+
+
+
 > _Cite as_: Barba, Lorena A., and Mesnard, Olivier (2019). Aero Python: classical aerodynamics of potential flow using Python. Journal of Open Source Education, 2(15), 45, https://doi.org/10.21105/jose.00045
 
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](None)

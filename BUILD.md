@@ -1,2 +1,18 @@
 ## Add Anaconda
 
+
+
+```
+name: aeropython
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.7
+  - numpy
+  - notebook
+  - pandas
+  - mastplotlib
+```
+
